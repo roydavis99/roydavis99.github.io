@@ -11,29 +11,36 @@ function cardFactory() {
             image: "./assets/images/Hangman.jpg",
             description: "Movie themed Hang Man game!  Test you knowledge of different movies. Demonstrates how to catch and use user input.",
             git: "https://github.com/roydavis99/Word-Guess-Game",
-            link: "https://roydavis99.github.io/Word-Guess-Game",
+            link: "https://roydavis99.github.io/Word-Guess-Game"
         },
         {
             name: "RPG Game",
             image: "./assets/images/RPG-Game.jpg",
             description: "Star Wars themed RPG. Demonstrates the use of objects and maintaining the objects value through arrays.",
             git: "https://github.com/roydavis99/unit-4-game",
-            link: "https://roydavis99.github.io/unit-4-game",
+            link: "https://roydavis99.github.io/unit-4-game"
         },
         {
             name: "Trivia Game",
             image: "./assets/images/Trivia-Game.jpg",
             description: "Test you knowledge on this trivia game. Demonstrates the use of timers and API's for questions.",
             git: "https://github.com/roydavis99/TriviaGame",
-            link: "https://roydavis99.github.io/TriviaGame",
+            link: "https://roydavis99.github.io/TriviaGame"
         } ,
         {
             name: "Musical Mappy",
             image: "./assets/images/map.jpg",
             description: "Explore the world and find music! Group project where we combined our skills to create a web app using data bases and API's",
             git: "https://github.com/marquiwarqui/PROJECT-1",
-            link: "https://marquiwarqui.github.io/PROJECT-1/",
-        } 
+            link: "https://marquiwarqui.github.io/PROJECT-1/"
+        } ,
+        {
+            name:"LIRI",
+            image: "./assets/images/Rutgers-Ifo-Widget.jpg",
+            description: "Liri is a node application that uses multiple APIs.  The calls are made based off what the user inputs",
+            git: "https://github.com/roydavis99/liri-node-app",
+            link:""
+        }
     ]
 
     /* 
