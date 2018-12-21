@@ -40,6 +40,20 @@ function cardFactory() {
             description: "Liri is a node application that uses multiple APIs.  The calls are made based off what the user inputs",
             git: "https://github.com/roydavis99/liri-node-app",
             link:""
+        } ,
+        {
+            name: "Burger",
+            image: "./assets/images/burger.jpg",
+            description:"Using Handlebars to create a web page hosted from a server",
+            git:"https://github.com/roydavis99/HamBurgaler",
+            link:"https://shielded-dusk-89261.herokuapp.com/"
+        },
+        {
+            name:"Bands on Tour",
+            image: "./assets/images/band.jpg",
+            description:"Want to listen to music from your favorite band?  want to see what the next tour looks like? This is your site!",
+            git:"https://github.com/roydavis99/Project2",
+            link:"https://bands-on-tour.herokuapp.com/"
         }
     ]
 
