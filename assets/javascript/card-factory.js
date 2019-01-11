@@ -54,6 +54,13 @@ function cardFactory() {
             description:"Want to listen to music from your favorite band?  want to see what the next tour looks like? This is your site!",
             git:"https://github.com/roydavis99/Project2",
             link:"https://bands-on-tour.herokuapp.com/"
+        },
+        {
+            name:"Friend Finder",
+            image:"https://www.stefanboatingworld.com.au/wp-content/uploads/2017/04/Generic-portrait-01.jpg",
+            description:"Using input from users, compare and find the closet match to the ratings and display the new friend.",
+            git:"https://github.com/roydavis99/FriendFinder",
+            link:"https://roy-friend-finder.herokuapp.com/"
         }
     ]
 
