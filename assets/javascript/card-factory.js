@@ -61,7 +61,14 @@ function cardFactory() {
             description:"Using input from users, compare and find the closet match to the ratings and display the new friend.",
             git:"https://github.com/roydavis99/FriendFinder",
             link:"https://roy-friend-finder.herokuapp.com/"
-        }
+        },
+        {
+            name:"Clicky Game",
+            image:"./assets/images/clicky-game.jpg",
+            description:"Game built in react to show rasing states among other things.",
+            git:"https://github.com/roydavis99/click-game",
+            link:"https://royclickygame.herokuapp.com/"
+        },
     ]
 
     /* 
