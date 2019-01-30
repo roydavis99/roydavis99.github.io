@@ -69,6 +69,13 @@ function cardFactory() {
             git:"https://github.com/roydavis99/click-game",
             link:"https://royclickygame.herokuapp.com/"
         },
+        {
+            name:"Broken Glass",
+            image:"./assets/images/BGIcon.jpg",
+            description:"Group Project - A rating system for the service industry",
+            git:"https://github.com/EhrenDavis12/broken-glass-app",
+            link:"https://broken-glass-app.herokuapp.com/results"
+        },
     ]
 
     /* 
